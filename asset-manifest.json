@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/terrencebarone/react-counter.git/static/css/main.79b965c7.chunk.css",
+    "main.js": "/terrencebarone/react-counter.git/static/js/main.8f75e85d.chunk.js",
+    "main.js.map": "/terrencebarone/react-counter.git/static/js/main.8f75e85d.chunk.js.map",
+    "runtime-main.js": "/terrencebarone/react-counter.git/static/js/runtime-main.63636646.js",
+    "runtime-main.js.map": "/terrencebarone/react-counter.git/static/js/runtime-main.63636646.js.map",
+    "static/js/2.8462057c.chunk.js": "/terrencebarone/react-counter.git/static/js/2.8462057c.chunk.js",
+    "static/js/2.8462057c.chunk.js.map": "/terrencebarone/react-counter.git/static/js/2.8462057c.chunk.js.map",
+    "index.html": "/terrencebarone/react-counter.git/index.html",
+    "static/css/main.79b965c7.chunk.css.map": "/terrencebarone/react-counter.git/static/css/main.79b965c7.chunk.css.map",
+    "static/js/2.8462057c.chunk.js.LICENSE.txt": "/terrencebarone/react-counter.git/static/js/2.8462057c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/terrencebarone/react-counter.git/static/media/counter-background.3ad26ae5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63636646.js",
+    "static/js/2.8462057c.chunk.js",
+    "static/css/main.79b965c7.chunk.css",
+    "static/js/main.8f75e85d.chunk.js"
+  ]
+}
